@@ -1,0 +1,57 @@
+h1 {
+    color: blueviolet;
+  }
+  
+  .container {
+    border: 7px solid black;
+    height: 500px;
+    width: 500px;
+    margin: 50px auto;
+    font-family:cursive;
+    border-radius: 25px;
+    
+  
+  }
+  
+  .heading {
+    display: inline;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .inputfield {
+    text-align: center;
+  }
+  
+  .inputfield span {
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    border-radius: 10px;
+  
+  }
+  
+  .buttons button {
+    display: block;
+    width: 400px;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 50px;
+    height: 50px;
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+  
+  }
+  
+  #inc{
+    background-color:green;
+  }
+  #dec{
+    background-color:red;
+  }
+  #reset{
+    background-color:grey;
+  }
